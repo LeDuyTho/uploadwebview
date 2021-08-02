@@ -1,0 +1,2 @@
+rootProject.name = "uploadwebview"
+include ':app'
